@@ -1,0 +1,17 @@
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pisagor.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pisagor.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\trigonometry.Form1.resources
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pisagor.Properties.Resources.resources
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pisagor.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pisagor.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\Pisagor.exe.config
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\Pisagor.exe
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\Pisagor.pdb
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pisagor.exe
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pisagor.pdb
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pisagor.TrustInfo.xml
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pisagor.exe.manifest
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\Pisagor.exe.manifest
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\Pisagor.application
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pisagor.application
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pythagorean.Properties.Resources.resources

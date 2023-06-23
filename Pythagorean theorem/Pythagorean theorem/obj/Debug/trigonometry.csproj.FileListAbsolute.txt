@@ -1,0 +1,11 @@
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\trigonometry.exe.config
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\trigonometry.exe
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\trigonometry.pdb
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\trigonometry.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\trigonometry.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\trigonometry.Form1.resources
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\trigonometry.Properties.Resources.resources
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\trigonometry.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\trigonometry.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\trigonometry.exe
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\trigonometry.pdb

@@ -1,0 +1,16 @@
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pythagorean theorem.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pythagorean theorem.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\trigonometry.Form1.resources
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pythagorean.Properties.Resources.resources
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pythagorean theorem.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pythagorean theorem.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\Pythagorean theorem.exe.config
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\Pythagorean theorem.exe.manifest
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\Pythagorean theorem.application
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\Pythagorean theorem.exe
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\bin\Debug\Pythagorean theorem.pdb
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pythagorean theorem.TrustInfo.xml
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pythagorean theorem.exe.manifest
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pythagorean theorem.application
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pythagorean theorem.exe
+C:\Users\abdul\Desktop\vs22\trigonometry\trigonometry\obj\Debug\Pythagorean theorem.pdb
